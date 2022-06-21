@@ -1,0 +1,22 @@
+    body {
+        background-image: url("../../../../assets/home.jpg");
+        background-size: 100%;
+        background-size: cover;
+        margin: 0%;
+        padding: 0;
+        position: absolute;
+        height: 100%;
+        width: 100%;
+    }
+    
+    .mat-card-image {
+        padding-top: 20px;
+        width: 250px;
+        height: 250px;
+    }
+    
+    #grid {
+        margin: auto;
+        margin-top: 15%;
+        width: 450px;
+    }
